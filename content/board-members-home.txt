@@ -1,0 +1,172 @@
+<h2 align="center" color="0B5288">BOARD MEETING FILES&nbsp;as of&nbsp;January 2012</h2>
+<table border="0" cellspacing="0" bordercolor="#0b5288" cellpadding="0" width="1007" bgcolor="#ffffff" height="58">
+    <tbody>
+        <tr>
+            <td width="1007">
+            <p align="center"><font face="Verdana"><b>DRAFT BOD MEETING MINUTES</b><br />
+            <br />
+            FYI - All available information from the Archives is listed at the bottom of the screen.</font></p>
+            <p align="center">&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="0" width="1003">
+    <tbody>
+        <tr>
+            <td height="76">
+            <p align="left"><b><u>REPORTS</u></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>&nbsp;</p>
+            <p><b>Executive Director</b></p>
+            <p><b>2012</b></p>
+            <ul>
+                <li><b><a target="_blank" href="/content/file/edreportJanuary%202012%5B1%5D.pdf">Executive Report Jan 2012</a> </b></li>
+                <li><a target="_blank" href="/content/file/2012 June ED Report.pdf">Executive Report June 2012</a></li>
+            </ul>
+            <p><b>2011</b></p>
+            <ul>
+                <li><a target="_blank" href="CURRENT REPORTS/ed report Mar2011.pdf">Executive Directors Report</a></li>
+                <li><a target="_blank" href="CURRENT REPORTS/January 27 2011 Minutes.pdf">January 27th Meeting Minutes</a></li>
+                <li><a target="_blank" href="CURRENT REPORTS/February 17 2011 Ex Minutes.pdf">February 17th Ex Meeting Minutes</a></li>
+                <li><a target="_blank" href="CURRENT REPORTS/February 24 2011 Minutes.pdf">February 24th Meeting Minutes</a></li>
+                <li><a target="_blank" href="CURRENT REPORTS/March 31 2011 Minutes.pdf">March 31st Meeting Minutes</a></li>
+                <li><a target="_blank" href="/content/file/ed%20report%20Apr2011.pdf">Executive Director Report - April 2011</a></li>
+                <li><a target="_blank" href="/content/file/April%2021st%20Meeting%20Minutes(1).pdf">April 21st Meeting Minutes</a></li>
+                <li><a target="_blank" href="/content/file/April%2028%202011%20Minutes.pdf">April 28th Meeting Minutes</a></li>
+                <li><a target="_blank" href="/content/file/May%2019th%20Ex%20Meeting%20Minutes(2).pdf">May 19th Ex Meeting Minutes</a></li>
+                <li><a href="/content/file/May%2026th%20Meeting%20Minutes.pdf">May 26th Meeting Minutes</a></li>
+                <li><a target="_blank" href="/content/file/Executive%20Directors%20Report%20-%20May%202011.pdf">Executive Director Report -&nbsp;June 2011 </a></li>
+                <li><a target="_blank" href="/content/file/March-May%202011%20Action%20Items.pdf">Action Items - March-May 2011</a></li>
+                <li><a target="_blank" href="/content/file/June%2016th%20Ex%20Meeting%20Minutes.pdf">June 16th Ex Meeting Minutes</a></li>
+                <li><a target="_blank" href="/content/file/June%2023rd%20Meeting%20Minutes%201.pdf">June 23rd Meeting Minutes 1</a></li>
+                <li><a target="_blank" href="/content/file/June%2023rd%20Meeting%20Minutes%202.pdf">June 23rd Meeting Minutes 2</a></li>
+                <li><a target="_blank" href="/content/file/July%2021%20Executive%20Committee%20Minutes.pdf">July 21st Ex Committee Minutes </a></li>
+                <li><a target="_blank" href="/content/file/July%2028%20Meeting%20Minutes.pdf">July 28th Meeting Minutes</a></li>
+                <li><a target="_blank" href="/content/file/August%2017%20Executive%20Committee%20Minutes.pdf">August 17 Ex Committee Minutes</a></li>
+                <li><a target="_blank" href="/content/file/Sept%2022%20Executive%20Committee%20Minutes.pdf">September 22 Ex Committee Minutes</a></li>
+                <li><a target="_blank" href="/content/file/Sept%2029%20Meeting%20%20Minutes.pdf">September 29 Meeting Minutes</a></li>
+                <li><a target="_blank" href="/content/file/Dec15Ex%20Minutes.pdf">December 15 Ex Committee Minutes</a></li>
+                <li><a target="_blank" href="/content/file/Dec%20%2015%20%20Meeting%20%20Minutes.pdf">December 15 Meeting Minutes</a></li>
+            </ul>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>&nbsp;</p>
+            <p><b>Finance Committee</b></p>
+            <ul>
+                <li><a target="_blank" href="/content/file/Dec%202011%20Profit%20and%20Loss.pdf">Profit &amp; Loss Statement </a></li>
+                <li><a target="_blank" href="/content/file/Dec%202011%20Balance%20Sheet.pdf">Balance Sheet </a></li>
+                <li><a target="_blank" href="/content/file/Dec%202011%20Dashboard.pdf">Dashboard Spreadsheet </a></li>
+            </ul>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="54">
+            <p><b><u>HOME STORE</u></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td height="88">
+            <ul>
+                <li><a target="_blank" href="/content/file/Dec%202011%20Inverness%20ReStore%20Report.pdf">ReStore 1 Report </a></li>
+                <li><a target="_blank" href="/content/file/Dec%202011%20ReStore%202%20report.pdf">ReStore 2 Report </a></li>
+                <li><a target="_blank" href="/content/file/Dec%202011%20ReStore%201%20P&amp;L(1).pdf">ReStore 1 Profit &amp; Loss </a></li>
+                <li><a target="_blank" href="/content/file/Dec%202011%20Restore%202%20P&amp;L.pdf">ReStore 2 Profit &amp; Loss </a></li>
+                <li><a target="_blank" href="/content/file/Dec%202011%20Restore%201%20Balance%20Sheet.pdf">ReStore 1 Balance Sheet </a></li>
+                <li><a target="_blank" href="/content/file/Dec%202011%20Restore%202%20Balance%20Sheet.pdf">ReStore 2 Balance Sheet </a></li>
+            </ul>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="55">
+            <p><b><u>STANDING COMMITTEES</u></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td height="19">
+            <p>Church Relations</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="19">
+            <p><a target="_blank" href="/content/file/Jan%20Const%20report%5B1%5D.pdf">Building</a></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="16">
+            <p>Site Selection</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="19">
+            <p><a target="_blank" href="/content/file/Jan%202012%20Family%20Services%20Com%20Report.pdf">Family Services</a></p>
+            <p><strong>September 10, 2012</strong></p>
+            <p>Five new families have been approved. The mentors have been assigned&nbsp;to the families.</p>
+            <p>Families 8-1, 8-5, 8-6, 8-7 and 8-8.The other families are working towards their Deidcations.</p>
+            <p>Some still&nbsp;have more sweat equity hours to do.</p>
+            <p>Nancy Wessel Family Services Committee Chairman</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="19">
+            <p>Public Relations</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="52">
+            <p>Resource Development</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="46">
+            <p>Property Master List</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="55">
+            <p>&nbsp;</p>
+            <p><b><u>NON-BOARD COMMITTEES</u></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td height="92">
+            <p>Nominating</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="51" width="84%" align="center">
+            <p align="left"><b><u>GRANT INFO</u></b></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td height="20" align="center">
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h4><b><u>ARCHIVES </u></b></h4>
+<p>&nbsp;</p>
+<p><a href="archives-2010.php">2010 Reports</a></p>
+<p><a href="archives-2009.php">2009 Reports</a></p>
+<p><a href="archives-2008.php">2008 Reports</a></p>
+<p>&nbsp;</p>
